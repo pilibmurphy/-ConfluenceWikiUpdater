@@ -1,4 +1,4 @@
-# Confluence Wiki Updater Script (With GitHub CI!)
+# Confluence Wiki Updater Script (With GitHub CI)
 
 Update a Confluence via the API using this python script.
 This script appends to the end of a table but can easily be modifed.
